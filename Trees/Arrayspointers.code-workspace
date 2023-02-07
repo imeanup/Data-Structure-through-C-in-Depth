@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "Arrayspointers",
+			"path": "../../../../Desktop/New folder/New folder/Arrayspointers"
+		},
+		{
+			"name": "Graph",
+			"path": "../../../../Desktop/New folder/New folder/Graph"
+		},
+		{
+			"name": "Introduction",
+			"path": "../../../../Desktop/New folder/New folder/Introduction"
+		},
+		{
+			"name": "Data-Structure-through-C-in-Depth",
+			"path": ".."
+		},
+		{
+			"name": "Linked List",
+			"path": "../../../../Desktop/New folder/New folder/Linked List"
+		},
+		{
+			"name": "Searching",
+			"path": "../../../../Desktop/New folder/New folder/Searching"
+		},
+		{
+			"name": "Sorting",
+			"path": "../../../../Desktop/New folder/New folder/Sorting"
+		},
+		{
+			"name": "Stack and Queue",
+			"path": "../../../../Desktop/New folder/New folder/Stack and Queue"
+		},
+		{
+			"name": "Trees",
+			"path": "../../../../Desktop/New folder/New folder/Trees"
+		}
+	],
+	"settings": {}
+}
