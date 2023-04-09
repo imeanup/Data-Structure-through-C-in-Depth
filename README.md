@@ -1,8 +1,8 @@
 # Title:
 
-### Data Structure through C in Depth
+### [Data Structure through C in Depth](https://amzn.eu/d/gGOmcaZ) https://m.media-amazon.com/images/I/514gJc37fHL._SX381_BO1,204,203,200_.jpg
 
-### C in Depth
+### [C in Depth](https://amzn.eu/d/0Eqphj3)
 
 # Author:
 
