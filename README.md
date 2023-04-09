@@ -1,3 +1,8 @@
-# Data-Structure-through-c-in-depth
+# Data Structure through C in Depth
 
-This repository contains the resource code from the CD provided free inside the book.
+# C in Depth
+
+### S. K. Srivastava
+
+
+This repository contains the code from CD provided free inside the book.
