@@ -16,7 +16,7 @@ This repository provides the code from the CD that accompanies the book, "Data S
 
 # License: 
 
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](https://github.com/imeanup/Data-Structure-through-C-in-Depth/blob/main/LICENSE.md).
 
 # Acknowledgments: 
 
